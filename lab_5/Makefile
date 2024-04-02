@@ -1,4 +1,4 @@
-obj-m += module_name.o
+obj-m += 5.o
 
 PWD := $(CURDIR)
 
